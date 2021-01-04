@@ -1,0 +1,23 @@
+.navbar-collapse{
+    justify-content: flex-end;
+}
+
+main{
+    margin-top: 55px;
+}
+
+#about,
+#services,
+#contact{
+    padding: 200px 0;
+}
+
+#about{
+    background-color: blanchedalmond;
+}
+#services{
+    background-color: rgb(177, 121, 39);
+}
+#contact{
+    background-color: rgb(224, 218, 209);
+}
